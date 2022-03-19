@@ -3,9 +3,7 @@ ___
 
 ![Preview](https://media.giphy.com/media/uTfgC6wZkJygDJ43jw/giphy.gif)
 
-<img src="assets/output_result/small_layout.png" width="200">
-<img src="assets/output_result/medium_layout.png" width="200">
-<img src="assets/output_result/large_layout.png" width="200">
+![Result Image](assets/output_result/result.png)
 
 
 Building a **Responsive App** that supports **Various Screen Sizes** is one of the most challenges that every flutter developer-facing.
